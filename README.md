@@ -18,6 +18,6 @@ Our implementation of the K-Means clustering algorithm is provided in the Jupyte
 ## Repository Structure
 
 - `data/`: Directory containing the dataset used for clustering analysis.
-- `kmeans_clustering.ipynb`: Jupyter Notebook containing the code for implementing the K-Means clustering algorithm.
+- `kmeans_band_image_tuhin_patra_version_no_1.ipynb`: Jupyter Notebook containing the code for implementing the K-Means clustering algorithm.
 - `README.md`: You are here!
 
