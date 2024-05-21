@@ -9,7 +9,7 @@ K-Means clustering is a popular unsupervised learning algorithm used for cluster
 
 ## Dataset
 
-We utilized a dataset for clustering analysis. The dataset is included in this repository but can be easily substituted with your own dataset.
+We utilized a satellite image dataset for clustering analysis. The dataset is included in this repository but can be easily substituted with your own dataset.
 
 ## Implementation
 
